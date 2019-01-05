@@ -22,7 +22,7 @@ const ilovetheBeatles = [];
 
 do { 
   ilovetheBeatles.push("I love the Beatles!"); n++;
-} while (n < 15); 
+} while (number < 15); 
 return ilovetheBeatles; 
 }
 
