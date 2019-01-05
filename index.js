@@ -17,7 +17,7 @@ let i = 0;
 return shoutedFacts
 }
 
-function ilovetheBeatles(number) {
+function iloveTheBeatles(number) {
 var loveTheBeatles = [];
 
 do { 
