@@ -17,12 +17,3 @@ let i = 0;
 return shoutedFacts
 }
 
-function iloveTheBeatles(number) {
-var loveTheBeatles = [];
-
-do { 
-  loveTheBeatles.push("I love the Beatles!"); number++;
-} while (number < 15); 
-return loveTheBeatles 
-}
-
