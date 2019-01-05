@@ -22,6 +22,6 @@ var ilovetheBeatles = []
 
 do { 
   ilovetheBeatles.push("I love the Beatles!");
-} while (i < 15); i++
+} while (i < 15); i++;
 return ilovetheBeatles;
 }
