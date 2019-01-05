@@ -21,7 +21,7 @@ function ilovetheBeatles(n) {
 var ilovetheBeatles = []
 let i = 0
 function incrementVariable() {
-  i = i + 1;
+  i = n + 1;
 
 do { 
   ilovetheBeatles.push("I love the Beatles!");
