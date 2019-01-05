@@ -21,7 +21,7 @@ function ilovetheBeatles(number) {
 const ilovetheBeatles = [];
 
 do { 
-  ilovetheBeatles.push(`I love the Beatles!`); n++;
+  ilovetheBeatles.push("I love the Beatles!"); n++;
 } while (number < 15); 
 return ilovetheBeatles; 
 }
