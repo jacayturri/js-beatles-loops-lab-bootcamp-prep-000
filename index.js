@@ -19,7 +19,7 @@ return shoutedFacts
 
 function ilovetheBeatles(n) {
 const ilovetheBeatles = [];
-}
+
 do { 
   ilovetheBeatles.push("I love the Beatles!"); n++;
 } while (n < 15); 
