@@ -17,7 +17,7 @@ let i = 0;
 return shoutedFacts
 }
 
-function ilovetheBeatles(n) {
+function ilovetheBeatles(number) {
 const ilovetheBeatles = [];
 
 do { 
