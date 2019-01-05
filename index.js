@@ -18,7 +18,7 @@ return shoutedFacts
 }
 
 function ilovetheBeatles(number) {
-const ilovetheBeatles = [];
+var loveTheBeatles = [];
 
 do { 
   ilovetheBeatles.push("I love the Beatles!"); n++;
