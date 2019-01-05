@@ -23,5 +23,6 @@ let i = 0
 function incrementVariable() {
   i = i + 1;
 
-do { ilovetheBeatles.push
+do { 
+  ilovetheBeatles.push
 }
