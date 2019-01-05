@@ -26,6 +26,6 @@ function incrementVariable() {
 do { 
   ilovetheBeatles.push("I love the Beatles!");
 } while (i < 15 && incrementVariable());
-}
+
 return ilovetheBeatles;
 }
