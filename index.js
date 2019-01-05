@@ -19,9 +19,6 @@ return shoutedFacts
 
 function ilovetheBeatles(n) {
 var ilovetheBeatles = []
-let i = 0
-function incrementVariable() {
-  i = n + 1;
 
 do { 
   ilovetheBeatles.push("I love the Beatles!");
